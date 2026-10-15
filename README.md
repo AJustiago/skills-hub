@@ -4,6 +4,7 @@ CLAUDE SKILLS
 ## Skills
 - `model-orchestrator` - route tasks to Haiku / Sonnet / Opus (Opus needs confirmation)
 - `registry-skills` - `/registry-skills` installs every skill in this repo
+- `mkdocs-documentation` - add MkDocs pages, scaffold MkDocs, host docs (local / Docker / GitHub Pages)
 
 ## Install
 First time (bootstrap):
